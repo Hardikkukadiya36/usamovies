@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: MoviePageProps): Promise<Meta
   }
 
   return {
-    title: `Watch ${movie.title} (${new Date(movie.release_date).getFullYear()}) Online Free in HD - 123Movies`,
+    title: `Watch ${movie.title}${movie.release_date ? ` (${new Date(movie.release_date).getFullYear()})` : ''} Online Free in HD - 123Movies`,
     description: `${movie.overview.substring(0, 155)}... Stream ${movie.title} online free in HD quality. Watch without registration.`,
     keywords: `watch ${movie.title} online free, ${movie.title} streaming, ${movie.title} full movie, ${movie.genres.map(g => g.name).join(', ')}`,
     openGraph: {
@@ -53,7 +53,7 @@ export default async function MoviePage({ params }: MoviePageProps) {
     notFound();
   }
 
-  const releaseYear = new Date(movie.release_date).getFullYear();
+  const releaseYear = movie.release_date ? new Date(movie.release_date).getFullYear() : '';
   const runtime = `${Math.floor(movie.runtime / 60)}h ${movie.runtime % 60}m`;
 
   return (
@@ -214,11 +214,7 @@ export default async function MoviePage({ params }: MoviePageProps) {
                 <div>
                   <span className="text-gray-400">Release Date:</span>
                   <span className="text-white ml-2">
-                    {new Date(movie.release_date).toLocaleDateString('en-US', {
-                      year: 'numeric',
-                      month: 'long',
-                      day: 'numeric'
-                    })}
+                    {movie.release_date ? new Date(movie.release_date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : 'N/A'}
                   </span>
                 </div>
                 <div>
