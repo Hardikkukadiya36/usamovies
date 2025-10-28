@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import { getPostBySlug, getPosts, Post } from '@/lib/wordpress';
+import { getPostBySlug, getPosts, getRelatedPosts, Post } from '@/lib/wordpress';
 
 type Params = {
   params: {
@@ -24,6 +24,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
 }
 
 import dynamic from 'next/dynamic';
+import RelatedPosts from '@/components/RelatedPosts';
 
 // Dynamically import the TableOfContents component with no SSR
 const TableOfContents = dynamic(
@@ -40,6 +41,11 @@ export default async function BlogPost({ params }: Params) {
 
   const author = post._embedded?.author?.[0];
   const featuredImage = post._embedded?.['wp:featuredmedia']?.[0];
+  
+  console.log('Post categories:', post.categories);
+  // Get related posts based on categories
+  const relatedPosts = await getRelatedPosts(post.id, post.categories || [], 3);
+  console.log('Related posts:', relatedPosts);
 
   return (
     <div className="container mx-auto px-4 py-8 max-w-7xl">
@@ -108,6 +114,12 @@ export default async function BlogPost({ params }: Params) {
         >
           ← Back to all posts
         </a>
+      </div>
+
+      {/* Related Posts */}
+      <div className="mt-8">
+        <h2 className="text-2xl font-bold mb-6">You May Also Like</h2>
+        <RelatedPosts posts={relatedPosts} />
       </div>
         </article>
 
