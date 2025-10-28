@@ -48,6 +48,9 @@ export default function Header() {
             <Link href="/genres" className="text-gray-300 hover:text-[#2ea043] transition-colors font-medium">
               Genres
             </Link>
+            <Link href="/blog" className="text-gray-300 hover:text-[#2ea043] transition-colors font-medium">
+              Blog
+            </Link>
           </nav>
 
           {/* Search Bar */}
@@ -92,8 +95,11 @@ export default function Header() {
               <Link href="/trending" className="text-gray-300 hover:text-[#2ea043] transition-colors font-medium">
                 Trending
               </Link>
-              <Link href="/genres" className="text-gray-300 hover:text-[#2ea043] transition-colors font-medium">
+              <Link href="/genres" className="block py-2 text-gray-300 hover:text-[#2ea043] transition-colors" onClick={() => setIsMenuOpen(false)}>
                 Genres
+              </Link>
+              <Link href="/blog" className="block py-2 text-gray-300 hover:text-[#2ea043] transition-colors" onClick={() => setIsMenuOpen(false)}>
+                Blog
               </Link>
               <form onSubmit={handleSearch} className="pt-2">
                 <div className="relative">
