@@ -1,30 +1,6 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-
-// Types for WordPress post
-type Post = {
-  id: number;
-  title: {
-    rendered: string;
-  };
-  content: {
-    rendered: string;
-  };
-  date: string;
-  modified: string;
-  _embedded?: {
-    author?: Array<{
-      name: string;
-      avatar_urls?: {
-        [key: string]: string;
-      };
-    }>;
-    'wp:featuredmedia'?: Array<{
-      source_url: string;
-      alt_text: string;
-    }>;
-  };
-};
+import { getPostBySlug, getPosts, Post } from '@/lib/wordpress';
 
 type Params = {
   params: {
@@ -33,7 +9,7 @@ type Params = {
 };
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
-  const post: Post = await getPost(params.slug);
+  const post = await getPostBySlug(params.slug);
   
   if (!post) {
     return {
@@ -47,39 +23,16 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
   };
 }
 
-async function getPost(slug: string): Promise<Post> {
-  const apiUrl = process.env.NEXT_PUBLIC_WORDPRESS_API_URL;
-  
-  if (!apiUrl) {
-    throw new Error('WordPress API URL is not configured. Please set NEXT_PUBLIC_WORDPRESS_API_URL in your environment variables.');
-  }
+import dynamic from 'next/dynamic';
 
-  try {
-    const res = await fetch(
-      `${apiUrl}/wp/v2/posts?slug=${slug}&_embed`,
-      { next: { revalidate: 60 } } // Revalidate every 60 seconds
-    );
-
-    if (!res.ok) {
-      const errorData = await res.text();
-      console.error('WordPress API Error:', errorData);
-      throw new Error(`Failed to fetch post: ${res.status} ${res.statusText}`);
-    }
-
-    const posts: Post[] = await res.json();
-    if (!posts || posts.length === 0) {
-      throw new Error('Post not found');
-    }
-    
-    return posts[0];
-  } catch (error) {
-    console.error('Error fetching WordPress post:', error);
-    throw new Error('Failed to load the blog post. The post might not exist or there might be an issue with the connection.');
-  }
-}
+// Dynamically import the TableOfContents component with no SSR
+const TableOfContents = dynamic(
+  () => import('@/components/TableOfContents'),
+  { ssr: false }
+);
 
 export default async function BlogPost({ params }: Params) {
-  const post = await getPost(params.slug);
+  const post = await getPostBySlug(params.slug);
 
   if (!post) {
     notFound();
@@ -89,8 +42,10 @@ export default async function BlogPost({ params }: Params) {
   const featuredImage = post._embedded?.['wp:featuredmedia']?.[0];
 
   return (
-    <article className="container mx-auto px-4 py-8 max-w-4xl">
-      <header className="mb-8">
+    <div className="container mx-auto px-4 py-8 max-w-7xl">
+      <div className="flex flex-col lg:flex-row gap-8">
+        <article className="w-full lg:w-3/4 xl:w-4/5 bg-white p-6 rounded-lg shadow-sm">
+      <header className="mb-8 prose max-w-none">
         <h1 className="text-4xl font-bold mb-4" dangerouslySetInnerHTML={{ __html: post.title.rendered }} />
         
         <div className="flex items-center text-gray-600 text-sm mb-6">
@@ -133,7 +88,17 @@ export default async function BlogPost({ params }: Params) {
 
       <div 
         className="prose max-w-none prose-lg"
-        dangerouslySetInnerHTML={{ __html: post.content.rendered }}
+        dangerouslySetInnerHTML={{ 
+          __html: post.content.rendered 
+            // Add IDs to all headings for the table of contents
+            .replace(/<h([2-4])>(.*?)<\/h[2-4]>/g, (match, level, content) => {
+              const id = content
+                .toLowerCase()
+                .replace(/[^\w\s-]/g, '')
+                .replace(/\s+/g, '-');
+              return `<h${level} id="${id}">${content}</h${level}>`;
+            })
+        }}
       />
 
       <div className="mt-12 pt-6 border-t border-gray-200">
@@ -144,29 +109,21 @@ export default async function BlogPost({ params }: Params) {
           ← Back to all posts
         </a>
       </div>
-    </article>
+        </article>
+
+        <aside className="w-full lg:w-1/4 xl:w-1/5">
+          <TableOfContents />
+        </aside>
+      </div>
+    </div>
   );
 }
 
 // Generate static paths for all blog posts
 export async function generateStaticParams() {
-  const apiUrl = process.env.NEXT_PUBLIC_WORDPRESS_API_URL;
-  
-  if (!apiUrl) {
-    console.warn('WordPress API URL is not configured. Static generation of blog posts will be skipped.');
-    return [];
-  }
-
   try {
-    const res = await fetch(`${apiUrl}/wp/v2/posts?per_page=100`);
-    
-    if (!res.ok) {
-      console.error('Failed to fetch posts for static generation:', res.status, res.statusText);
-      return [];
-    }
-    
-    const posts = await res.json();
-    return posts.map((post: any) => ({
+    const posts = await getPosts({ perPage: 100 });
+    return posts.map((post: Post) => ({
       slug: post.slug,
     }));
   } catch (error) {

@@ -4,12 +4,15 @@ import AdBanner from "@/components/AdBanner";
 import TrendingSection from "@/components/TrendingSection";
 import GenreSection from "@/components/GenreSection";
 import RelatedLinks from "@/components/RelatedLinks";
+import BlogGrid from "@/components/BlogGrid";
 import { getPopularMovies, getTrendingMovies } from "@/lib/tmdb";
+import { getPosts } from "@/lib/wordpress";
 
 export default async function Home() {
-  const [popularData, trendingData] = await Promise.all([
+  const [popularData, trendingData, blogPosts] = await Promise.all([
     getPopularMovies(1),
-    getTrendingMovies('week')
+    getTrendingMovies('week'),
+    getPosts({ perPage: 3 })
   ]);
   return (
     <div className="bg-gradient-dark">
@@ -35,6 +38,11 @@ export default async function Home() {
       {/* Genre Section */}
       <section className="container-custom py-12">
         <GenreSection />
+      </section>
+
+      {/* Blog Section */}
+      <section className="bg-gray-900 py-12">
+        <BlogGrid posts={blogPosts} title="Latest Blog Posts" maxPosts={3} />
       </section>
 
       {/* Quick Links Section */}
