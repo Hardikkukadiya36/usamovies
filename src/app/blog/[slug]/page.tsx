@@ -1,7 +1,16 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import Image from 'next/image';
 import { getPostBySlug, getPosts, getRelatedPosts, Post } from '@/lib/wordpress';
+import dynamic from 'next/dynamic';
+import RelatedPosts from '@/components/RelatedPosts';
+import FeaturedImage from '@/components/FeaturedImage';
+import BlogContent from '@/components/BlogContent';
+
+// Dynamically import the TableOfContents component with no SSR
+const TableOfContents = dynamic(
+  () => import('@/components/TableOfContents'),
+  { ssr: false }
+);
 
 type Params = {
   params: {
@@ -24,14 +33,6 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
   };
 }
 
-import dynamic from 'next/dynamic';
-import RelatedPosts from '@/components/RelatedPosts';
-
-// Dynamically import the TableOfContents component with no SSR
-const TableOfContents = dynamic(
-  () => import('@/components/TableOfContents'),
-  { ssr: false }
-);
 
 export default async function BlogPost({ params }: Params) {
   const post = await getPostBySlug(params.slug);
@@ -43,7 +44,18 @@ export default async function BlogPost({ params }: Params) {
   const author = post._embedded?.author?.[0];
   const featuredImage = post._embedded?.['wp:featuredmedia']?.[0];
   
+  // Debug logging
   console.log('Post categories:', post.categories);
+  console.log('Featured image data:', {
+    hasFeaturedImage: !!featuredImage,
+    sourceUrl: featuredImage?.source_url,
+    altText: featuredImage?.alt_text,
+    embeddedMedia: post._embedded?.['wp:featuredmedia']
+  });
+  
+  // Get the best available image URL
+  const featuredImageUrl = featuredImage?.source_url || '';
+  
   // Get related posts based on categories
   const relatedPosts = await getRelatedPosts(post.id, post.categories || [], 3);
   console.log('Related posts:', relatedPosts);
@@ -82,70 +94,18 @@ export default async function BlogPost({ params }: Params) {
           )}
         </div>
 
-        {featuredImage?.source_url && (
-          <div className="mb-8 rounded-lg overflow-hidden relative w-full h-[500px]">
-            <Image
-              src={featuredImage.source_url}
-              alt={featuredImage.alt_text || post.title.rendered}
-              fill
-              className="object-cover"
-              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 70vw"
-              priority
-            />
-          </div>
-        )}
+        <div className="mb-8 rounded-lg overflow-hidden">
+          <FeaturedImage 
+            src={featuredImageUrl}
+            alt={featuredImage?.alt_text || post.title.rendered}
+            className="rounded-lg"
+            width={1200}
+            height={630}
+          />
+        </div>
       </header>
 
-      <div className="prose max-w-none prose-lg">
-        <div
-          dangerouslySetInnerHTML={{
-            __html: post.content.rendered
-              // Replace img tags with a marker for processing
-              .replace(/<img([^>]*)>/g, (match) => `[IMAGE:${btoa(match)}]`)
-              // Add IDs to all headings for the table of contents
-              .replace(/<h([2-4])>(.*?)<\/h[2-4]>/g, (match, level, content) => {
-                const id = content
-                  .toLowerCase()
-                  .replace(/[^\w\s-]/g, '')
-                  .replace(/\s+/g, '-');
-                return `<h${level} id="${id}">${content}</h${level}>`;
-              })
-          }}
-        />
-        
-        {/* Process images with Next.js Image component */}
-        {post.content.rendered.match(/<img[^>]*>/g)?.map((imgTag, index) => {
-          try {
-            const srcMatch = imgTag.match(/src=["'](.*?)["']/);
-            const altMatch = imgTag.match(/alt=["'](.*?)["']/);
-            const widthMatch = imgTag.match(/width=["'](\d+)["']/);
-            const heightMatch = imgTag.match(/height=["'](\d+)["']/);
-            
-            if (!srcMatch) return null;
-            
-            const src = srcMatch[1];
-            const alt = altMatch?.[1] || '';
-            const width = widthMatch ? parseInt(widthMatch[1]) : 800;
-            const height = heightMatch ? parseInt(heightMatch[1]) : 450;
-            
-            return (
-              <div key={index} className="my-6 rounded-lg overflow-hidden">
-                <Image
-                  src={src}
-                  alt={alt}
-                  width={width}
-                  height={height}
-                  className="w-full h-auto"
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 70vw"
-                />
-              </div>
-            );
-          } catch (error) {
-            console.error('Error processing image:', error);
-            return null;
-          }
-        })}
-      </div>
+      <BlogContent content={post.content.rendered} />
 
       <div className="mt-12 pt-6 border-t border-gray-200">
         <a 
@@ -158,7 +118,6 @@ export default async function BlogPost({ params }: Params) {
 
       {/* Related Posts */}
       <div className="mt-8">
-        <h2 className="text-2xl font-bold mb-6">You May Also Like</h2>
         <RelatedPosts posts={relatedPosts} />
       </div>
         </article>

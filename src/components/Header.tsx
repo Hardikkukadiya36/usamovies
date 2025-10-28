@@ -22,7 +22,20 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2 group">
-            <Image src="/123logo.webp" alt="Logo" width={128} height={128}/>
+            <Image 
+              src="/123logo.png" 
+              alt="Logo" 
+              width={128} 
+              height={32}
+              className="w-32 h-auto"
+              priority
+              onError={(e) => {
+                // Fallback to webp if SVG fails to load
+                const target = e.target as HTMLImageElement;
+                target.onerror = null;
+                target.src = '/123logo.png';
+              }}
+            />
           </Link>
 
           {/* Desktop Navigation */}
