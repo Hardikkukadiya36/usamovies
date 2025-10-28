@@ -17,10 +17,10 @@ type Post = {
 
 export default function RelatedPosts({ posts }: { posts: Post[] }) {
   // Debug: Log the posts being received
-  console.log('RelatedPosts received:', posts);
+  //console.log('RelatedPosts received:', posts);
   
   if (!posts || posts.length === 0) {
-    console.log('No related posts to display');
+    //console.log('No related posts to display');
     return (
       <div className="text-center py-4 text-gray-500">
         No related posts found.

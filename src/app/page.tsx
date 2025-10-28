@@ -2,7 +2,6 @@ import Hero from "@/components/Hero";
 import MovieGrid from "@/components/MovieGrid";
 import AdBanner from "@/components/AdBanner";
 import TrendingSection from "@/components/TrendingSection";
-import GenreSection from "@/components/GenreSection";
 import RelatedLinks from "@/components/RelatedLinks";
 import BlogGrid from "@/components/BlogGrid";
 import { getPopularMovies, getTrendingMovies } from "@/lib/tmdb";
@@ -35,12 +34,7 @@ export default async function Home() {
         <MovieGrid movies={popularData.results.slice(0, 10)} />
       </section>
 
-      {/* Genre Section */}
-      <section className="container-custom py-12">
-        <GenreSection />
-      </section>
-
-      {/* Blog Section */}
+{/* Blog Section */}
       <section className="bg-gray-900 py-12">
         <BlogGrid posts={blogPosts} title="Latest Blog Posts" maxPosts={3} />
       </section>

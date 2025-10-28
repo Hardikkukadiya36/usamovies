@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { Search, Menu, X, Film } from "lucide-react";
+import Image from "next/image";
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -16,39 +17,32 @@ export default function Header() {
   };
 
   return (
-    <header className="sticky top-0 z-50 bg-[#0d1117]/95 backdrop-blur-sm border-b border-gray-800">
+    <header className="sticky top-0 z-50 bg-[#78ffd6]/95 backdrop-blur-sm border-b border-gray-800">
       <div className="container-custom">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2 group">
-            <div className="relative">
-              <Film className="w-8 h-8 text-[#2ea043] group-hover:text-[#2ea043]/80 transition-colors" />
-              <div className="absolute -top-1 -right-1 w-3 h-3 bg-[#2ea043] rounded-full animate-pulse"></div>
-            </div>
-            <span className="text-2xl font-bold">
-              <span className="text-[#2ea043]">123</span>
-              <span className="text-white">Movies</span>
-            </span>
+            <Image src="/123logo.webp" alt="Logo" width={128} height={128}/>
           </Link>
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
-            <Link href="/" className="text-gray-300 hover:text-[#2ea043] transition-colors font-medium">
+            <Link href="/" className="text-black hover:text-[#2ea043] transition-colors font-medium">
               Home
             </Link>
-            <Link href="/movies" className="text-gray-300 hover:text-[#2ea043] transition-colors font-medium">
+            <Link href="/movies" className="text-black hover:text-[#2ea043] transition-colors font-medium">
               Movies
             </Link>
-            <Link href="/tv-shows" className="text-gray-300 hover:text-[#2ea043] transition-colors font-medium">
+            <Link href="/tv-shows" className="text-black hover:text-[#2ea043] transition-colors font-medium">
               TV Shows
             </Link>
-            <Link href="/trending" className="text-gray-300 hover:text-[#2ea043] transition-colors font-medium">
+            <Link href="/trending" className="text-black hover:text-[#2ea043] transition-colors font-medium">
               Trending
             </Link>
-            <Link href="/genres" className="text-gray-300 hover:text-[#2ea043] transition-colors font-medium">
+            <Link href="/genres" className="text-black hover:text-[#2ea043] transition-colors font-medium">
               Genres
             </Link>
-            <Link href="/blog" className="text-gray-300 hover:text-[#2ea043] transition-colors font-medium">
+            <Link href="/blog" className="text-black hover:text-[#2ea043] transition-colors font-medium">
               Blog
             </Link>
           </nav>

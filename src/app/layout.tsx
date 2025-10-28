@@ -28,6 +28,24 @@ const secondaryKeywords = [
 ];
 
 export const metadata: Metadata = {
+  icons: {
+    icon: [
+      { url: '/favicon.jpg', sizes: 'any' },
+      { url: '/favicon.jpg', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon.jpg', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon.jpg', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/favicon.jpg' },
+    ],
+    other: [
+      {
+        rel: 'mask-icon',
+        url: '/favicon.jpg',
+        color: '#2ea043',
+      },
+    ],
+  },
   metadataBase: new URL(siteUrl),
   title: {
     default: `${siteName} - Watch Free HD Movies & TV Shows Online`,

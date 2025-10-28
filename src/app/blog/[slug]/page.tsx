@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
+import Image from 'next/image';
 import { getPostBySlug, getPosts, getRelatedPosts, Post } from '@/lib/wordpress';
 
 type Params = {
@@ -81,31 +82,70 @@ export default async function BlogPost({ params }: Params) {
           )}
         </div>
 
-        {featuredImage && (
-          <div className="mb-8 rounded-lg overflow-hidden">
-            <img 
-              src={featuredImage.source_url} 
+        {featuredImage?.source_url && (
+          <div className="mb-8 rounded-lg overflow-hidden relative w-full h-[500px]">
+            <Image
+              src={featuredImage.source_url}
               alt={featuredImage.alt_text || post.title.rendered}
-              className="w-full h-auto max-h-[500px] object-cover"
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 70vw"
+              priority
             />
           </div>
         )}
       </header>
 
-      <div 
-        className="prose max-w-none prose-lg"
-        dangerouslySetInnerHTML={{ 
-          __html: post.content.rendered 
-            // Add IDs to all headings for the table of contents
-            .replace(/<h([2-4])>(.*?)<\/h[2-4]>/g, (match, level, content) => {
-              const id = content
-                .toLowerCase()
-                .replace(/[^\w\s-]/g, '')
-                .replace(/\s+/g, '-');
-              return `<h${level} id="${id}">${content}</h${level}>`;
-            })
-        }}
-      />
+      <div className="prose max-w-none prose-lg">
+        <div
+          dangerouslySetInnerHTML={{
+            __html: post.content.rendered
+              // Replace img tags with a marker for processing
+              .replace(/<img([^>]*)>/g, (match) => `[IMAGE:${btoa(match)}]`)
+              // Add IDs to all headings for the table of contents
+              .replace(/<h([2-4])>(.*?)<\/h[2-4]>/g, (match, level, content) => {
+                const id = content
+                  .toLowerCase()
+                  .replace(/[^\w\s-]/g, '')
+                  .replace(/\s+/g, '-');
+                return `<h${level} id="${id}">${content}</h${level}>`;
+              })
+          }}
+        />
+        
+        {/* Process images with Next.js Image component */}
+        {post.content.rendered.match(/<img[^>]*>/g)?.map((imgTag, index) => {
+          try {
+            const srcMatch = imgTag.match(/src=["'](.*?)["']/);
+            const altMatch = imgTag.match(/alt=["'](.*?)["']/);
+            const widthMatch = imgTag.match(/width=["'](\d+)["']/);
+            const heightMatch = imgTag.match(/height=["'](\d+)["']/);
+            
+            if (!srcMatch) return null;
+            
+            const src = srcMatch[1];
+            const alt = altMatch?.[1] || '';
+            const width = widthMatch ? parseInt(widthMatch[1]) : 800;
+            const height = heightMatch ? parseInt(heightMatch[1]) : 450;
+            
+            return (
+              <div key={index} className="my-6 rounded-lg overflow-hidden">
+                <Image
+                  src={src}
+                  alt={alt}
+                  width={width}
+                  height={height}
+                  className="w-full h-auto"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 70vw"
+                />
+              </div>
+            );
+          } catch (error) {
+            console.error('Error processing image:', error);
+            return null;
+          }
+        })}
+      </div>
 
       <div className="mt-12 pt-6 border-t border-gray-200">
         <a 
