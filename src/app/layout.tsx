@@ -28,6 +28,9 @@ const secondaryKeywords = [
 ];
 
 export const metadata: Metadata = {
+  verification: {
+    google: 'nNve0mirDxFtpeaYyprm-9aEUDceo_LWdGwQpyVRDPs',
+  },
   icons: {
     icon: [
       { url: '/favicon.jpg', sizes: 'any' },
@@ -98,9 +101,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: siteUrl,
   },
-  verification: {
-    google: process.env.GOOGLE_VERIFICATION_CODE || '',
-  },
+ 
 };
 
 export default function RootLayout({
@@ -108,8 +109,24 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  // Google Analytics Measurement ID
+  const GA_MEASUREMENT_ID = 'G-FZM7QWGJ7E';
   return (
     <html lang="en">
+      <head>
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}');
+          `}
+        </Script>
+      </head>
       <head>
         {/* Google AdSense */}
         <Script

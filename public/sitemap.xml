@@ -8,7 +8,7 @@
   
   <!-- Homepage -->
   <url>
-    <loc>https://yourdomain.com/</loc>
+    <loc>https://123moviesfreestreaming.com/</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -16,97 +16,97 @@
   
   <!-- Movies Page -->
   <url>
-    <loc>https://yourdomain.com/movies</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/movies</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   
   <!-- TV Shows Page -->
   <url>
-    <loc>https://yourdomain.com/tv-shows</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/tv-shows</loc>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   
   <!-- Trending Page -->
   <url>
-    <loc>https://yourdomain.com/trending</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/trending</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
   </url>
   
   <!-- Genres Page -->
   <url>
-    <loc>https://yourdomain.com/genres</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/genres</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <!-- Genre Pages -->
   <url>
-    <loc>https://yourdomain.com/genre/action</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/genre/action</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/genre/comedy</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/genre/comedy</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/genre/horror</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/genre/horror</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/genre/romance</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/genre/romance</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   
   <!-- Legal Pages -->
   <url>
-    <loc>https://yourdomain.com/about</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/about</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/contact</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/contact</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/privacy</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/privacy</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/terms</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/terms</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/dmca</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://123moviesfreestreaming.com/dmca</loc>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
