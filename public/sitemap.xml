@@ -5,91 +5,91 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-    <loc>https://123moviesfreestreaming.com/</loc>
+    <loc>https://123movies.com/</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movies</loc>
+    <loc>https://123movies.com/movies</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/tv-shows</loc>
+    <loc>https://123movies.com/tv-shows</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/genres</loc>
+    <loc>https://123movies.com/genres</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/trending</loc>
+    <loc>https://123movies.com/trending</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/search</loc>
+    <loc>https://123movies.com/search</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/about</loc>
+    <loc>https://123movies.com/about</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/contact</loc>
+    <loc>https://123movies.com/contact</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/faq</loc>
+    <loc>https://123movies.com/faq</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/privacy</loc>
+    <loc>https://123movies.com/privacy</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/terms</loc>
+    <loc>https://123movies.com/terms</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/disclaimer</loc>
+    <loc>https://123movies.com/disclaimer</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/dmca</loc>
+    <loc>https://123movies.com/dmca</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/blog</loc>
+    <loc>https://123movies.com/blog</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1025527</loc>
+    <loc>https://123movies.com/movie/1025527-abyss</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -104,7 +104,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/507244</loc>
+    <loc>https://123movies.com/movie/507244-afterburn</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -119,7 +119,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/755898</loc>
+    <loc>https://123movies.com/movie/755898-war-of-the-worlds</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -134,7 +134,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1197137</loc>
+    <loc>https://123movies.com/movie/1197137-black-phone-2</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -149,7 +149,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1218925</loc>
+    <loc>https://123movies.com/movie/1218925-chainsaw-man-the-movie-reze-arc</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -164,7 +164,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/861451</loc>
+    <loc>https://123movies.com/movie/861451-martin</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -179,7 +179,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1511789</loc>
+    <loc>https://123movies.com/movie/1511789-captain-hook-the-cursed-tides</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -194,7 +194,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1311031</loc>
+    <loc>https://123movies.com/movie/1311031-demon-slayer-kimetsu-no-yaiba-infinity-castle</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -209,7 +209,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1305717</loc>
+    <loc>https://123movies.com/movie/1305717-hunting-grounds</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -224,7 +224,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1284120</loc>
+    <loc>https://123movies.com/movie/1284120-the-ugly-stepsister</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -239,7 +239,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1280450</loc>
+    <loc>https://123movies.com/movie/1280450-stolen-girl</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -254,7 +254,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1156594</loc>
+    <loc>https://123movies.com/movie/1156594-our-fault</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -269,7 +269,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/354912</loc>
+    <loc>https://123movies.com/movie/354912-coco</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -284,7 +284,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1038392</loc>
+    <loc>https://123movies.com/movie/1038392-the-conjuring-last-rites</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -299,7 +299,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1519168</loc>
+    <loc>https://123movies.com/movie/1519168-the-jester-2</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -314,7 +314,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/803796</loc>
+    <loc>https://123movies.com/movie/803796-kpop-demon-hunters</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -329,7 +329,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1072699</loc>
+    <loc>https://123movies.com/movie/1072699-inside-furioza</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -344,7 +344,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/7451</loc>
+    <loc>https://123movies.com/movie/7451-xxx</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -359,7 +359,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1290159</loc>
+    <loc>https://123movies.com/movie/1290159-a-house-of-dynamite</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -374,7 +374,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/338969</loc>
+    <loc>https://123movies.com/movie/338969-the-toxic-avenger-unrated</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -389,7 +389,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/604079</loc>
+    <loc>https://123movies.com/movie/604079-the-long-walk</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -404,7 +404,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/270655</loc>
+    <loc>https://123movies.com/movie/270655-people-a-musical-celebration</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -419,7 +419,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/196259</loc>
+    <loc>https://123movies.com/movie/196259-beyond-the-curtain</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -434,7 +434,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1242898</loc>
+    <loc>https://123movies.com/movie/1242898-predator-badlands</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -449,7 +449,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1007840</loc>
+    <loc>https://123movies.com/movie/1007840-three-jolly-fellows</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -464,7 +464,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/617126</loc>
+    <loc>https://123movies.com/movie/617126-the-fantastic-4-first-steps</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -479,7 +479,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1169210</loc>
+    <loc>https://123movies.com/movie/1169210-the-mannequin</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -494,7 +494,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1306525</loc>
+    <loc>https://123movies.com/movie/1306525-the-elixir</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -509,7 +509,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1571470</loc>
+    <loc>https://123movies.com/movie/1571470-the-rats-a-witcher-tale</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -524,7 +524,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1272166</loc>
+    <loc>https://123movies.com/movie/1272166-ballad-of-a-small-player</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -539,7 +539,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1380998</loc>
+    <loc>https://123movies.com/movie/1380998-the-book</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -554,7 +554,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/154400</loc>
+    <loc>https://123movies.com/movie/154400-the-drop</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -569,7 +569,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1257009</loc>
+    <loc>https://123movies.com/movie/1257009-primitive-war</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -584,7 +584,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1086910</loc>
+    <loc>https://123movies.com/movie/1086910-the-lost-princess</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -599,7 +599,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/793387</loc>
+    <loc>https://123movies.com/movie/793387-holy-night-demon-hunters</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -614,7 +614,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/997113</loc>
+    <loc>https://123movies.com/movie/997113-hedda</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -629,7 +629,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1078605</loc>
+    <loc>https://123movies.com/movie/1078605-weapons</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -644,7 +644,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/100042</loc>
+    <loc>https://123movies.com/movie/100042-dumb-and-dumber-to</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -659,7 +659,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1328402</loc>
+    <loc>https://123movies.com/movie/1328402-the-people-in-the-walls</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -674,7 +674,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/120</loc>
+    <loc>https://123movies.com/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -689,7 +689,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1186350</loc>
+    <loc>https://123movies.com/movie/1186350-marco</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -704,7 +704,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/873967</loc>
+    <loc>https://123movies.com/movie/873967-the-devils-trap</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -719,7 +719,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/13</loc>
+    <loc>https://123movies.com/movie/13-forrest-gump</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -734,7 +734,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1010581</loc>
+    <loc>https://123movies.com/movie/1010581-my-fault</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -749,7 +749,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/285</loc>
+    <loc>https://123movies.com/movie/285-pirates-of-the-caribbean-at-worlds-end</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -764,7 +764,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/272490</loc>
+    <loc>https://123movies.com/movie/272490-design-revolution</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -779,7 +779,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1107216</loc>
+    <loc>https://123movies.com/movie/1107216-pets-on-a-train</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -794,7 +794,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/85430</loc>
+    <loc>https://123movies.com/movie/85430-girl-play</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -809,7 +809,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/533533</loc>
+    <loc>https://123movies.com/movie/533533-tron-ares</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -824,7 +824,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/99861</loc>
+    <loc>https://123movies.com/movie/99861-avengers-age-of-ultron</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -839,7 +839,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1327862</loc>
+    <loc>https://123movies.com/movie/1327862-regretting-you</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -854,7 +854,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/9902</loc>
+    <loc>https://123movies.com/movie/9902-wrong-turn</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -869,7 +869,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/49521</loc>
+    <loc>https://123movies.com/movie/49521-man-of-steel</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -884,7 +884,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/283566</loc>
+    <loc>https://123movies.com/movie/283566-evangelion-3010-thrice-upon-a-time</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -899,7 +899,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/166428</loc>
+    <loc>https://123movies.com/movie/166428-how-to-train-your-dragon-the-hidden-world</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -914,7 +914,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/575265</loc>
+    <loc>https://123movies.com/movie/575265-mission-impossible-the-final-reckoning</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -929,7 +929,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/138130</loc>
+    <loc>https://123movies.com/movie/138130-kelly-victor</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -944,7 +944,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/810693</loc>
+    <loc>https://123movies.com/movie/810693-jujutsu-kaisen-0</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -959,7 +959,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1061474</loc>
+    <loc>https://123movies.com/movie/1061474-superman</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -974,7 +974,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/206647</loc>
+    <loc>https://123movies.com/movie/206647-spectre</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -989,7 +989,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/146</loc>
+    <loc>https://123movies.com/movie/146-crouching-tiger-hidden-dragon</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1004,7 +1004,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/215</loc>
+    <loc>https://123movies.com/movie/215-saw-ii</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1019,7 +1019,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/936245</loc>
+    <loc>https://123movies.com/movie/936245-hidden-face</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1034,7 +1034,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/8467</loc>
+    <loc>https://123movies.com/movie/8467-dumb-and-dumber</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1049,7 +1049,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/589761</loc>
+    <loc>https://123movies.com/movie/589761-chernobyl-abyss</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1064,7 +1064,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/22843</loc>
+    <loc>https://123movies.com/movie/22843-evangelion-20-you-can-not-advance</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1079,7 +1079,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/68341</loc>
+    <loc>https://123movies.com/movie/68341-cold-fish</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1094,7 +1094,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/646</loc>
+    <loc>https://123movies.com/movie/646-dr-no</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1109,7 +1109,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/414770</loc>
+    <loc>https://123movies.com/movie/414770-antiporno</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1124,7 +1124,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/63311</loc>
+    <loc>https://123movies.com/movie/63311-the-skin-i-live-in</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1139,7 +1139,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1585</loc>
+    <loc>https://123movies.com/movie/1585-its-a-wonderful-life</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1154,7 +1154,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/11075</loc>
+    <loc>https://123movies.com/movie/11075-audition</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1169,7 +1169,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/338953</loc>
+    <loc>https://123movies.com/movie/338953-fantastic-beasts-the-secrets-of-dumbledore</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1184,7 +1184,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/75629</loc>
+    <loc>https://123movies.com/movie/75629-evangelion-30-you-can-not-redo</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1199,7 +1199,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/939335</loc>
+    <loc>https://123movies.com/movie/939335-muzzle</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1214,7 +1214,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/329996</loc>
+    <loc>https://123movies.com/movie/329996-dumbo</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1229,7 +1229,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/15383</loc>
+    <loc>https://123movies.com/movie/15383-army-of-shadows</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1244,7 +1244,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1198426</loc>
+    <loc>https://123movies.com/movie/1198426-captain-avispa</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1259,7 +1259,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/660</loc>
+    <loc>https://123movies.com/movie/660-thunderball</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1274,7 +1274,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/974453</loc>
+    <loc>https://123movies.com/movie/974453-absolution</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1289,7 +1289,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/652837</loc>
+    <loc>https://123movies.com/movie/652837-josee-the-tiger-and-the-fish</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1304,7 +1304,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/10545</loc>
+    <loc>https://123movies.com/movie/10545-the-hunchback-of-notre-dame</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1319,7 +1319,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/10764</loc>
+    <loc>https://123movies.com/movie/10764-quantum-of-solace</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1334,7 +1334,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/3981</loc>
+    <loc>https://123movies.com/movie/3981-what-women-want</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1349,7 +1349,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1255788</loc>
+    <loc>https://123movies.com/movie/1255788-the-gardener</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1364,7 +1364,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/9836</loc>
+    <loc>https://123movies.com/movie/9836-happy-feet</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1379,7 +1379,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/30843</loc>
+    <loc>https://123movies.com/movie/30843-antique</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1394,7 +1394,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/668</loc>
+    <loc>https://123movies.com/movie/668-on-her-majestys-secret-service</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1409,7 +1409,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/297608</loc>
+    <loc>https://123movies.com/movie/297608-the-taking-of-deborah-logan</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1424,7 +1424,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/738652</loc>
+    <loc>https://123movies.com/movie/738652-copshop</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1439,7 +1439,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/707</loc>
+    <loc>https://123movies.com/movie/707-a-view-to-a-kill</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1454,7 +1454,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1234821</loc>
+    <loc>https://123movies.com/movie/1234821-jurassic-world-rebirth</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1469,7 +1469,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/709</loc>
+    <loc>https://123movies.com/movie/709-licence-to-kill</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1484,7 +1484,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/695089</loc>
+    <loc>https://123movies.com/movie/695089-onoda-10000-nights-in-the-jungle</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1499,7 +1499,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1151949</loc>
+    <loc>https://123movies.com/movie/1151949-the-shadow-strays</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1514,7 +1514,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/15907</loc>
+    <loc>https://123movies.com/movie/15907-duma</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1529,7 +1529,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/23155</loc>
+    <loc>https://123movies.com/movie/23155-the-garden-of-sinners-paradox-spiral</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1544,7 +1544,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/187033</loc>
+    <loc>https://123movies.com/movie/187033-women</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1559,7 +1559,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/362057</loc>
+    <loc>https://123movies.com/movie/362057-martyrs</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1574,7 +1574,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/23153</loc>
+    <loc>https://123movies.com/movie/23153-the-garden-of-sinners-remaining-sense-of-pain</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1589,7 +1589,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/278</loc>
+    <loc>https://123movies.com/movie/278-the-shawshank-redemption</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1604,7 +1604,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/238</loc>
+    <loc>https://123movies.com/movie/238-the-godfather</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1619,7 +1619,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/240</loc>
+    <loc>https://123movies.com/movie/240-the-godfather-part-ii</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1634,7 +1634,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/424</loc>
+    <loc>https://123movies.com/movie/424-schindlers-list</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1649,7 +1649,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/389</loc>
+    <loc>https://123movies.com/movie/389-12-angry-men</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1664,7 +1664,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/129</loc>
+    <loc>https://123movies.com/movie/129-spirited-away</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1679,7 +1679,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/155</loc>
+    <loc>https://123movies.com/movie/155-the-dark-knight</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1694,7 +1694,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/19404</loc>
+    <loc>https://123movies.com/movie/19404-dilwale-dulhania-le-jayenge</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1709,7 +1709,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/497</loc>
+    <loc>https://123movies.com/movie/497-the-green-mile</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1724,7 +1724,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/496243</loc>
+    <loc>https://123movies.com/movie/496243-parasite</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1739,7 +1739,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/122</loc>
+    <loc>https://123movies.com/movie/122-the-lord-of-the-rings-the-return-of-the-king</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1754,7 +1754,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/680</loc>
+    <loc>https://123movies.com/movie/680-pulp-fiction</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1769,7 +1769,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/372058</loc>
+    <loc>https://123movies.com/movie/372058-your-name</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1784,7 +1784,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/157336</loc>
+    <loc>https://123movies.com/movie/157336-interstellar</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1799,7 +1799,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/429</loc>
+    <loc>https://123movies.com/movie/429-the-good-the-bad-and-the-ugly</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1814,7 +1814,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/769</loc>
+    <loc>https://123movies.com/movie/769-goodfellas</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1829,7 +1829,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/346</loc>
+    <loc>https://123movies.com/movie/346-seven-samurai</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1844,7 +1844,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/12477</loc>
+    <loc>https://123movies.com/movie/12477-grave-of-the-fireflies</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1859,7 +1859,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/637</loc>
+    <loc>https://123movies.com/movie/637-life-is-beautiful</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1874,7 +1874,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/550</loc>
+    <loc>https://123movies.com/movie/550-fight-club</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1889,7 +1889,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/667257</loc>
+    <loc>https://123movies.com/movie/667257-impossible-things</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1904,7 +1904,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/14537</loc>
+    <loc>https://123movies.com/movie/14537-harakiri</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1919,7 +1919,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/11216</loc>
+    <loc>https://123movies.com/movie/11216-cinema-paradiso</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1934,7 +1934,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/598</loc>
+    <loc>https://123movies.com/movie/598-city-of-god</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1949,7 +1949,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/539</loc>
+    <loc>https://123movies.com/movie/539-psycho</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1964,7 +1964,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/40096</loc>
+    <loc>https://123movies.com/movie/40096-a-dogs-will</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1979,7 +1979,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/510</loc>
+    <loc>https://123movies.com/movie/510-one-flew-over-the-cuckoos-nest</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1994,7 +1994,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/121</loc>
+    <loc>https://123movies.com/movie/121-the-lord-of-the-rings-the-two-towers</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2009,7 +2009,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/696374</loc>
+    <loc>https://123movies.com/movie/696374-gabriels-inferno</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2024,7 +2024,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/255709</loc>
+    <loc>https://123movies.com/movie/255709-hope</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2039,7 +2039,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/311</loc>
+    <loc>https://123movies.com/movie/311-once-upon-a-time-in-america</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2054,7 +2054,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/324857</loc>
+    <loc>https://123movies.com/movie/324857-spider-man-into-the-spider-verse</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2069,7 +2069,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/4935</loc>
+    <loc>https://123movies.com/movie/4935-howls-moving-castle</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2084,7 +2084,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1891</loc>
+    <loc>https://123movies.com/movie/1891-the-empire-strikes-back</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2099,7 +2099,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/378064</loc>
+    <loc>https://123movies.com/movie/378064-a-silent-voice-the-movie</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2114,7 +2114,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/423</loc>
+    <loc>https://123movies.com/movie/423-the-pianist</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2129,7 +2129,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/807</loc>
+    <loc>https://123movies.com/movie/807-se7en</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2144,7 +2144,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/244786</loc>
+    <loc>https://123movies.com/movie/244786-whiplash</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2159,7 +2159,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/27205</loc>
+    <loc>https://123movies.com/movie/27205-inception</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2174,7 +2174,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/724089</loc>
+    <loc>https://123movies.com/movie/724089-gabriels-inferno-part-ii</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2189,7 +2189,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/770156</loc>
+    <loc>https://123movies.com/movie/770156-lucy-shimmers-and-the-prince-of-peace</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2204,7 +2204,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1058694</loc>
+    <loc>https://123movies.com/movie/1058694-radical</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2219,7 +2219,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/761053</loc>
+    <loc>https://123movies.com/movie/761053-gabriels-inferno-part-iii</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2234,7 +2234,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/12493</loc>
+    <loc>https://123movies.com/movie/12493-high-and-low</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2249,7 +2249,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/567</loc>
+    <loc>https://123movies.com/movie/567-rear-window</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2264,7 +2264,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/274</loc>
+    <loc>https://123movies.com/movie/274-the-silence-of-the-lambs</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2279,7 +2279,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/569094</loc>
+    <loc>https://123movies.com/movie/569094-spider-man-across-the-spider-verse</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2294,7 +2294,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/620249</loc>
+    <loc>https://123movies.com/movie/620249-the-legend-of-hei</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2309,7 +2309,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/73</loc>
+    <loc>https://123movies.com/movie/73-american-history-x</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2324,7 +2324,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/128</loc>
+    <loc>https://123movies.com/movie/128-princess-mononoke</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2339,7 +2339,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/105</loc>
+    <loc>https://123movies.com/movie/105-back-to-the-future</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2354,7 +2354,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1184918</loc>
+    <loc>https://123movies.com/movie/1184918-the-wild-robot</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2369,7 +2369,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/15804</loc>
+    <loc>https://123movies.com/movie/15804-a-brighter-summer-day</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2384,7 +2384,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/820067</loc>
+    <loc>https://123movies.com/movie/820067-the-quintessential-quintuplets-movie</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2399,7 +2399,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/372754</loc>
+    <loc>https://123movies.com/movie/372754-dou-kyu-sei-classmates</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2414,7 +2414,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/3782</loc>
+    <loc>https://123movies.com/movie/3782-ikiru</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2429,7 +2429,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1186532</loc>
+    <loc>https://123movies.com/movie/1186532-the-forge</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2444,7 +2444,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/10494</loc>
+    <loc>https://123movies.com/movie/10494-perfect-blue</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2459,7 +2459,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/207</loc>
+    <loc>https://123movies.com/movie/207-dead-poets-society</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2474,7 +2474,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/101</loc>
+    <loc>https://123movies.com/movie/101-lon-the-professional</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2489,7 +2489,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1356039</loc>
+    <loc>https://123movies.com/movie/1356039-counterattack</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2504,7 +2504,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/914</loc>
+    <loc>https://123movies.com/movie/914-the-great-dictator</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2519,7 +2519,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/599</loc>
+    <loc>https://123movies.com/movie/599-sunset-boulevard</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2534,7 +2534,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/533514</loc>
+    <loc>https://123movies.com/movie/533514-violet-evergarden-the-movie</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2549,7 +2549,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1139087</loc>
+    <loc>https://123movies.com/movie/1139087-once-upon-a-studio</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2564,7 +2564,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/644479</loc>
+    <loc>https://123movies.com/movie/644479-dedicated-to-my-ex</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2579,7 +2579,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/42269</loc>
+    <loc>https://123movies.com/movie/42269-we-all-loved-each-other-so-much</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2594,7 +2594,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/3082</loc>
+    <loc>https://123movies.com/movie/3082-modern-times</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2609,7 +2609,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/335</loc>
+    <loc>https://123movies.com/movie/335-once-upon-a-time-in-the-west</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2624,7 +2624,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/92321</loc>
+    <loc>https://123movies.com/movie/92321-hotarubi-no-mori-e</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2639,7 +2639,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/77338</loc>
+    <loc>https://123movies.com/movie/77338-the-intouchables</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2654,7 +2654,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/18491</loc>
+    <loc>https://123movies.com/movie/18491-neon-genesis-evangelion-the-end-of-evangelion</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2669,7 +2669,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/28</loc>
+    <loc>https://123movies.com/movie/28-apocalypse-now</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2684,7 +2684,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/632632</loc>
+    <loc>https://123movies.com/movie/632632-given</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2699,7 +2699,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/901</loc>
+    <loc>https://123movies.com/movie/901-city-lights</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2714,7 +2714,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/975</loc>
+    <loc>https://123movies.com/movie/975-paths-of-glory</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2729,7 +2729,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/637920</loc>
+    <loc>https://123movies.com/movie/637920-miracle-in-cell-no-7</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2744,7 +2744,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/8587</loc>
+    <loc>https://123movies.com/movie/8587-the-lion-king</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2759,7 +2759,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/29259</loc>
+    <loc>https://123movies.com/movie/29259-le-trou</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2774,7 +2774,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/630566</loc>
+    <loc>https://123movies.com/movie/630566-clouds</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2789,7 +2789,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/568332</loc>
+    <loc>https://123movies.com/movie/568332-taylor-swift-reputation-stadium-tour</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2804,7 +2804,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/10376</loc>
+    <loc>https://123movies.com/movie/10376-the-legend-of-1900</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2819,7 +2819,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/670</loc>
+    <loc>https://123movies.com/movie/670-oldboy</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2834,7 +2834,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/447362</loc>
+    <loc>https://123movies.com/movie/447362-life-in-a-year</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2849,7 +2849,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/572154</loc>
+    <loc>https://123movies.com/movie/572154-rascal-does-not-dream-of-a-dreaming-girl</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2864,7 +2864,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/504253</loc>
+    <loc>https://123movies.com/movie/504253-i-want-to-eat-your-pancreas</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2879,7 +2879,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/299534</loc>
+    <loc>https://123movies.com/movie/299534-avengers-endgame</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2894,7 +2894,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/299536</loc>
+    <loc>https://123movies.com/movie/299536-avengers-infinity-war</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2909,7 +2909,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/603</loc>
+    <loc>https://123movies.com/movie/603-the-matrix</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2924,7 +2924,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/508965</loc>
+    <loc>https://123movies.com/movie/508965-klaus</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2939,7 +2939,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/527641</loc>
+    <loc>https://123movies.com/movie/527641-five-feet-apart</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2954,7 +2954,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/25237</loc>
+    <loc>https://123movies.com/movie/25237-come-and-see</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2969,7 +2969,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/654299</loc>
+    <loc>https://123movies.com/movie/654299-out-of-the-clear-blue-sky</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2984,7 +2984,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/490132</loc>
+    <loc>https://123movies.com/movie/490132-green-book</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2999,7 +2999,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/857</loc>
+    <loc>https://123movies.com/movie/857-saving-private-ryan</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3014,7 +3014,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/701387</loc>
+    <loc>https://123movies.com/movie/701387-bugonia</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3029,7 +3029,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1084242</loc>
+    <loc>https://123movies.com/movie/1084242-zootopia-2</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3044,7 +3044,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/760329</loc>
+    <loc>https://123movies.com/movie/760329-the-smashing-machine</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3059,7 +3059,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1246049</loc>
+    <loc>https://123movies.com/movie/1246049-dracula-a-love-tale</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3074,7 +3074,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1364608</loc>
+    <loc>https://123movies.com/movie/1364608-anemone</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3089,7 +3089,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1086260</loc>
+    <loc>https://123movies.com/movie/1086260-the-astronaut</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3104,7 +3104,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/967941</loc>
+    <loc>https://123movies.com/movie/967941-wicked-for-good</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3119,7 +3119,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1386827</loc>
+    <loc>https://123movies.com/movie/1386827-coyotes</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3134,7 +3134,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1500536</loc>
+    <loc>https://123movies.com/movie/1500536-dead-to-rights</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3149,7 +3149,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/402431</loc>
+    <loc>https://123movies.com/movie/402431-wicked</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3164,7 +3164,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/674</loc>
+    <loc>https://123movies.com/movie/674-harry-potter-and-the-goblet-of-fire</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3179,7 +3179,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/425274</loc>
+    <loc>https://123movies.com/movie/425274-now-you-see-me-now-you-dont</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3194,7 +3194,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/986097</loc>
+    <loc>https://123movies.com/movie/986097-him</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3209,7 +3209,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1064307</loc>
+    <loc>https://123movies.com/movie/1064307-spermageddon</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3224,7 +3224,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1144107</loc>
+    <loc>https://123movies.com/movie/1144107-the-legend-of-hei-2</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3239,7 +3239,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1212271</loc>
+    <loc>https://123movies.com/movie/1212271-eleanor-the-great</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3254,7 +3254,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/937941</loc>
+    <loc>https://123movies.com/movie/937941-shelby-oaks</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3269,7 +3269,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/15137</loc>
+    <loc>https://123movies.com/movie/15137-evangelion-10-you-are-not-alone</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3284,7 +3284,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1419406</loc>
+    <loc>https://123movies.com/movie/1419406-the-shadows-edge</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3299,7 +3299,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1549517</loc>
+    <loc>https://123movies.com/movie/1549517-cats-hair</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3314,7 +3314,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1235746</loc>
+    <loc>https://123movies.com/movie/1235746-dead-of-winter</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3329,7 +3329,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1241436</loc>
+    <loc>https://123movies.com/movie/1241436-warfare</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3344,7 +3344,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/957119</loc>
+    <loc>https://123movies.com/movie/957119-sidelined-the-qb-and-me</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3359,7 +3359,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1230368</loc>
+    <loc>https://123movies.com/movie/1230368-springsteen-deliver-me-from-nowhere</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3374,7 +3374,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/798645</loc>
+    <loc>https://123movies.com/movie/798645-the-running-man</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3389,7 +3389,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/11688</loc>
+    <loc>https://123movies.com/movie/11688-the-emperors-new-groove</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3404,7 +3404,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1223601</loc>
+    <loc>https://123movies.com/movie/1223601-sisu-road-to-revenge</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3419,7 +3419,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/648878</loc>
+    <loc>https://123movies.com/movie/648878-eddington</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3434,7 +3434,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1088166</loc>
+    <loc>https://123movies.com/movie/1088166-relay</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3449,7 +3449,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/118</loc>
+    <loc>https://123movies.com/movie/118-charlie-and-the-chocolate-factory</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3464,7 +3464,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/324544</loc>
+    <loc>https://123movies.com/movie/324544-in-the-lost-lands</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3479,7 +3479,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1214931</loc>
+    <loc>https://123movies.com/movie/1214931-nuremberg</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3494,7 +3494,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1539104</loc>
+    <loc>https://123movies.com/movie/1539104-jujutsu-kaisen-execution-shibuya-incident-x-the-culling-game-begins-</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3509,7 +3509,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1337562</loc>
+    <loc>https://123movies.com/movie/1337562-splitsville</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3524,7 +3524,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1228246</loc>
+    <loc>https://123movies.com/movie/1228246-five-nights-at-freddys-2</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3539,7 +3539,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/508883</loc>
+    <loc>https://123movies.com/movie/508883-the-boy-and-the-heron</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3554,7 +3554,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1242419</loc>
+    <loc>https://123movies.com/movie/1242419-roofman</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3569,7 +3569,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1033148</loc>
+    <loc>https://123movies.com/movie/1033148-die-my-love</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3584,7 +3584,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1456349</loc>
+    <loc>https://123movies.com/movie/1456349-it-was-just-an-accident</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3599,7 +3599,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1219620</loc>
+    <loc>https://123movies.com/movie/1219620-all-thats-left-of-you</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3614,7 +3614,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/926606</loc>
+    <loc>https://123movies.com/movie/926606-the-home</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3629,7 +3629,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1396965</loc>
+    <loc>https://123movies.com/movie/1396965-detective-conan-one-eyed-flashback</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3644,7 +3644,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/9470</loc>
+    <loc>https://123movies.com/movie/9470-kung-fu-hustle</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3659,7 +3659,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1214130</loc>
+    <loc>https://123movies.com/movie/1214130-stitch-head</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3674,7 +3674,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1266798</loc>
+    <loc>https://123movies.com/movie/1266798-dog-51</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3689,7 +3689,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1290183</loc>
+    <loc>https://123movies.com/movie/1290183-the-first-ride</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3704,7 +3704,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/812583</loc>
+    <loc>https://123movies.com/movie/812583-wake-up-dead-man-a-knives-out-mystery</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3719,7 +3719,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1356236</loc>
+    <loc>https://123movies.com/movie/1356236-saint-catherine</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3734,7 +3734,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1418302</loc>
+    <loc>https://123movies.com/movie/1418302-my-boo-2</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3749,7 +3749,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1448560</loc>
+    <loc>https://123movies.com/movie/1448560-wildcat</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3764,7 +3764,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1262983</loc>
+    <loc>https://123movies.com/movie/1262983-mads</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3779,7 +3779,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1126336</loc>
+    <loc>https://123movies.com/movie/1126336-anniversary</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3794,7 +3794,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1233506</loc>
+    <loc>https://123movies.com/movie/1233506-the-incredible-shrinking-man</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3809,7 +3809,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1151272</loc>
+    <loc>https://123movies.com/movie/1151272-sirt</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3824,7 +3824,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1264573</loc>
+    <loc>https://123movies.com/movie/1264573-lurker</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3839,7 +3839,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1316719</loc>
+    <loc>https://123movies.com/movie/1316719-the-ugly</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3854,7 +3854,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/556574</loc>
+    <loc>https://123movies.com/movie/556574-hamilton</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3869,7 +3869,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1480382</loc>
+    <loc>https://123movies.com/movie/1480382-the-voice-of-hind-rajab</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3884,7 +3884,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/15999</loc>
+    <loc>https://123movies.com/movie/15999-vampire-hunter-d-bloodlust</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3899,7 +3899,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/42994</loc>
+    <loc>https://123movies.com/movie/42994-memories</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3914,7 +3914,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1299655</loc>
+    <loc>https://123movies.com/movie/1299655-blue-moon</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3929,7 +3929,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1013446</loc>
+    <loc>https://123movies.com/movie/1013446-reflection-in-a-dead-diamond</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3944,7 +3944,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/858024</loc>
+    <loc>https://123movies.com/movie/858024-hamnet</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3959,7 +3959,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1248226</loc>
+    <loc>https://123movies.com/movie/1248226-playdate</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3974,7 +3974,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1420733</loc>
+    <loc>https://123movies.com/movie/1420733-the-cursed-insatiable-desires</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3989,7 +3989,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/804370</loc>
+    <loc>https://123movies.com/movie/804370-arco</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4004,7 +4004,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/999075</loc>
+    <loc>https://123movies.com/movie/999075-left-handed-girl</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4019,7 +4019,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1293167</loc>
+    <loc>https://123movies.com/movie/1293167-exit-protocol</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4034,7 +4034,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1523345</loc>
+    <loc>https://123movies.com/movie/1523345-against-all-odds</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4049,7 +4049,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1232449</loc>
+    <loc>https://123movies.com/movie/1232449-young-hearts</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4064,7 +4064,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1481595</loc>
+    <loc>https://123movies.com/movie/1481595-athi-bheekara-kaamukan</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4079,7 +4079,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/15916</loc>
+    <loc>https://123movies.com/movie/15916-angels-egg</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4094,7 +4094,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/974663</loc>
+    <loc>https://123movies.com/movie/974663-200-wolf</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4109,7 +4109,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1452176</loc>
+    <loc>https://123movies.com/movie/1452176-abrahams-boys</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4124,7 +4124,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/534780</loc>
+    <loc>https://123movies.com/movie/534780-andhadhun</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4139,7 +4139,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1379266</loc>
+    <loc>https://123movies.com/movie/1379266-kokuho</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4154,7 +4154,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1429348</loc>
+    <loc>https://123movies.com/movie/1429348-the-stranger</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4169,7 +4169,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1404404</loc>
+    <loc>https://123movies.com/movie/1404404-crayon-shin-chan-the-movie-super-hot-the-spicy-kasukabe-dancers</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4184,7 +4184,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1124566</loc>
+    <loc>https://123movies.com/movie/1124566-sentimental-value</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4199,7 +4199,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1220564</loc>
+    <loc>https://123movies.com/movie/1220564-the-secret-agent</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4214,7 +4214,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1421990</loc>
+    <loc>https://123movies.com/movie/1421990-the-baltimorons</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4229,7 +4229,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/11645</loc>
+    <loc>https://123movies.com/movie/11645-ran</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4244,7 +4244,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/878608</loc>
+    <loc>https://123movies.com/movie/878608-resurrection</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4259,7 +4259,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1955</loc>
+    <loc>https://123movies.com/movie/1955-the-elephant-man</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4274,7 +4274,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1557691</loc>
+    <loc>https://123movies.com/movie/1557691-the-will</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4289,7 +4289,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1567447</loc>
+    <loc>https://123movies.com/movie/1567447-oh-what-happy-days</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4304,7 +4304,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1134463</loc>
+    <loc>https://123movies.com/movie/1134463-dreams</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4319,7 +4319,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/628847</loc>
+    <loc>https://123movies.com/movie/628847-trap-house</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4334,7 +4334,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1171296</loc>
+    <loc>https://123movies.com/movie/1171296-baltimore</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4349,7 +4349,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/531428</loc>
+    <loc>https://123movies.com/movie/531428-portrait-of-a-lady-on-fire</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4364,7 +4364,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1010756</loc>
+    <loc>https://123movies.com/movie/1010756-the-strangers-chapter-2</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4379,7 +4379,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/940721</loc>
+    <loc>https://123movies.com/movie/940721-godzilla-minus-one</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4394,7 +4394,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1062722</loc>
+    <loc>https://123movies.com/movie/1062722-frankenstein</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4409,7 +4409,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/8337</loc>
+    <loc>https://123movies.com/movie/8337-they-live</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4424,7 +4424,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1254135</loc>
+    <loc>https://123movies.com/movie/1254135-13-days-13-nights-in-the-hell-of-kabul</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4439,7 +4439,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1328803</loc>
+    <loc>https://123movies.com/movie/1328803-prisoner-of-war</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4454,7 +4454,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1054867</loc>
+    <loc>https://123movies.com/movie/1054867-one-battle-after-another</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4469,7 +4469,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1549512</loc>
+    <loc>https://123movies.com/movie/1549512-nympho</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4484,7 +4484,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/980477</loc>
+    <loc>https://123movies.com/movie/980477-ne-zha-2</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4499,7 +4499,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1422096</loc>
+    <loc>https://123movies.com/movie/1422096-good-boy</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4514,7 +4514,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1007734</loc>
+    <loc>https://123movies.com/movie/1007734-nobody-2</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4529,7 +4529,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/3933</loc>
+    <loc>https://123movies.com/movie/3933-corpse-bride</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4544,7 +4544,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1299046</loc>
+    <loc>https://123movies.com/movie/1299046-diamonds</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4559,7 +4559,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1362315</loc>
+    <loc>https://123movies.com/movie/1362315-the-hand-that-rocks-the-cradle</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4574,7 +4574,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1267905</loc>
+    <loc>https://123movies.com/movie/1267905-the-roses</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4589,7 +4589,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1535290</loc>
+    <loc>https://123movies.com/movie/1535290-host</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4604,7 +4604,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1290879</loc>
+    <loc>https://123movies.com/movie/1290879-the-woman-in-cabin-10</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4619,7 +4619,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/927254</loc>
+    <loc>https://123movies.com/movie/927254-the-twits</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4634,7 +4634,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1330421</loc>
+    <loc>https://123movies.com/movie/1330421-bone-lake</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4649,7 +4649,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/14836</loc>
+    <loc>https://123movies.com/movie/14836-coraline</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4664,7 +4664,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1280282</loc>
+    <loc>https://123movies.com/movie/1280282-gabbys-dollhouse-the-movie</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4679,7 +4679,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1083637</loc>
+    <loc>https://123movies.com/movie/1083637-kantara-chapter-1</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4694,7 +4694,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1233413</loc>
+    <loc>https://123movies.com/movie/1233413-sinners</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4709,7 +4709,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1197306</loc>
+    <loc>https://123movies.com/movie/1197306-a-working-man</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4724,7 +4724,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1277988</loc>
+    <loc>https://123movies.com/movie/1277988-caramelo</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4739,7 +4739,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1242011</loc>
+    <loc>https://123movies.com/movie/1242011-together</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4754,7 +4754,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1042834</loc>
+    <loc>https://123movies.com/movie/1042834-eden</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4769,7 +4769,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/76600</loc>
+    <loc>https://123movies.com/movie/76600-avatar-the-way-of-water</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4784,7 +4784,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1549292</loc>
+    <loc>https://123movies.com/movie/1549292-lego-frozen-operation-puffins</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4799,7 +4799,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1497036</loc>
+    <loc>https://123movies.com/movie/1497036-dr-seusss-the-sneetches</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4814,7 +4814,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1352755</loc>
+    <loc>https://123movies.com/movie/1352755-maintenance-required</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4829,7 +4829,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/4232</loc>
+    <loc>https://123movies.com/movie/4232-scream</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4844,7 +4844,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1251717</loc>
+    <loc>https://123movies.com/movie/1251717-vicious</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4859,7 +4859,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1215106</loc>
+    <loc>https://123movies.com/movie/1215106-kogaloak-the-ghastly-village</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4874,7 +4874,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/8966</loc>
+    <loc>https://123movies.com/movie/8966-twilight</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4889,7 +4889,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1564937</loc>
+    <loc>https://123movies.com/movie/1564937-mamasan</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4904,7 +4904,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1502943</loc>
+    <loc>https://123movies.com/movie/1502943-night-of-the-reaper</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4919,7 +4919,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1550569</loc>
+    <loc>https://123movies.com/movie/1550569-aileen-queen-of-the-serial-killers</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4934,7 +4934,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1374686</loc>
+    <loc>https://123movies.com/movie/1374686-light-of-the-world</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4949,7 +4949,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1252309</loc>
+    <loc>https://123movies.com/movie/1252309-tell-me-what-you-want</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4964,7 +4964,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1049942</loc>
+    <loc>https://123movies.com/movie/1049942-bambi-the-reckoning</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4979,7 +4979,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/947512</loc>
+    <loc>https://123movies.com/movie/947512-living-large</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4994,7 +4994,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1196364</loc>
+    <loc>https://123movies.com/movie/1196364-thamma</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -5009,7 +5009,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1154800</loc>
+    <loc>https://123movies.com/movie/1154800-love-live-nijigasaki-high-school-idol-club-final-chapter-part-2</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -5024,7 +5024,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1285965</loc>
+    <loc>https://123movies.com/movie/1285965-dangerous-animals</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -5039,7 +5039,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/713364</loc>
+    <loc>https://123movies.com/movie/713364-clown-in-a-cornfield</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -5054,7 +5054,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1076897</loc>
+    <loc>https://123movies.com/movie/1076897-kaamelott-the-second-chapter-part-i</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -5069,7 +5069,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1245993</loc>
+    <loc>https://123movies.com/movie/1245993-caught-stealing</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -5084,7 +5084,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1124620</loc>
+    <loc>https://123movies.com/movie/1124620-the-monkey</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -5099,7 +5099,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/639988</loc>
+    <loc>https://123movies.com/movie/639988-no-other-choice</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -5114,7 +5114,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1097549</loc>
+    <loc>https://123movies.com/movie/1097549-babygirl</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -5129,7 +5129,7 @@
     </video:video>
   </url>
   <url>
-    <loc>https://123moviesfreestreaming.com/movie/1147411</loc>
+    <loc>https://123movies.com/movie/1147411-miraculous-world-tokyo-stellar-force</loc>
     <lastmod>2025-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

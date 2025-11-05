@@ -25,7 +25,11 @@ export default function TrendingSection({ movies }: TrendingSectionProps) {
       
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
         {movies.map((movie, index) => (
-          <Link href={`/movie/${movie.id}`} key={movie.id} className="group relative">
+          <Link 
+            href={`/movie/${movie.id}-${movie.title.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-').replace(/--+/g, '-').trim()}`} 
+            key={movie.id} 
+            className="group relative"
+          >
             <div className="card">
               <div className="relative aspect-video overflow-hidden bg-gray-800">
                 <Image

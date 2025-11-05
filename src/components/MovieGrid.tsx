@@ -21,7 +21,9 @@ export default function MovieGrid({ movies, type }: MovieGridProps) {
         const isTV = type === 'tv' || isTVShow(item);
         const title = isTV ? (item as TVShow).name : (item as Movie).title;
         const releaseDate = isTV ? (item as TVShow).first_air_date : (item as Movie).release_date;
-        const linkHref = isTV ? `/tv/${item.id}` : `/movie/${item.id}`;
+        const linkHref = isTV 
+          ? `/tv/${item.id}-${title.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-').replace(/--+/g, '-').trim()}`
+          : `/movie/${item.id}-${title.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-').replace(/--+/g, '-').trim()}`;
         
         return (
           <Link href={linkHref} key={item.id} className="group">

@@ -4,6 +4,17 @@ const axios = require('axios');
 const dotenv = require('dotenv');
 const path = require('path');
 
+// Function to create URL-friendly slugs from movie titles
+function createSlug(title: string | undefined | null): string {
+  if (!title) return '';
+  return title
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '') // Remove special characters
+    .replace(/\s+/g, '-')      // Replace spaces with hyphens
+    .replace(/--+/g, '-')      // Replace multiple hyphens with a single one
+    .trim();
+}
+
 // Load environment variables from .env file
 const envPath = path.join(__dirname, '..', '.env');
 dotenv.config({ path: envPath });
@@ -39,7 +50,7 @@ async function fetchMovies(category: string, page: number = 1) {
   return fetchFromTMDB(`/movie/${category}`, { page });
 }
 
-const SITE_URL = 'https://123moviesfreestreaming.com';
+const SITE_URL = 'https://123movies.com';
 const SITEMAP_PATH = join(process.cwd(), 'public', 'sitemap.xml');
 const ENV_PATH = join(process.cwd(), '.env');
 
@@ -124,7 +135,8 @@ function generateSitemap(movies: any[]) {
 
   // Add movie pages to sitemap
   for (const movie of movies) {
-    const movieUrl = `${SITE_URL}/movie/${movie.id}`;
+    const movieSlug = createSlug(movie.title || movie.original_title || '');
+    const movieUrl = `${SITE_URL}/movie/${movie.id}${movieSlug ? '-' + movieSlug : ''}`;
     
     sitemap += `  <url>
     <loc>${movieUrl}</loc>

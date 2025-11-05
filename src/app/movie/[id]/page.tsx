@@ -13,14 +13,22 @@ import AdBanner from "@/components/AdBanner";
 import MovieGrid from "@/components/MovieGrid";
 import Breadcrumbs from "@/components/Breadcrumbs";
 
+// Function to extract ID from slug (e.g., '123-movie-title' -> 123)
+function extractIdFromSlug(slug: string): number {
+  const match = slug.match(/^(\d+)/);
+  if (!match) throw new Error('Invalid movie URL');
+  return parseInt(match[1], 10);
+}
+
 interface MoviePageProps {
   params: {
-    id: string;
+    id: string; // This will be in format '123-movie-title'
   };
 }
 
 export async function generateMetadata({ params }: MoviePageProps): Promise<Metadata> {
-  const movie = await getMovieDetails(parseInt(params.id));
+  const movieId = extractIdFromSlug(params.id);
+  const movie = await getMovieDetails(movieId);
   
   if (!movie) {
     return {
@@ -41,7 +49,7 @@ export async function generateMetadata({ params }: MoviePageProps): Promise<Meta
 }
 
 export default async function MoviePage({ params }: MoviePageProps) {
-  const movieId = parseInt(params.id);
+  const movieId = extractIdFromSlug(params.id);
   
   const [movie, reviewsData, similarData] = await Promise.all([
     getMovieDetails(movieId),
