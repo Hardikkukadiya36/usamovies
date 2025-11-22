@@ -63,7 +63,7 @@ function createSlug(title: string): string {
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = 'https://123movies.com'; // Replace with your actual domain
+  const baseUrl = 'https://123moviesfreestreaming.com'; // Replace with your actual domain
   
   // Static pages
   const staticPages = [
